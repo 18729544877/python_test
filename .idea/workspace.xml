@@ -2,8 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="02b54761-af4d-4718-99e7-bbc974cd94b1" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../python_test/test2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../python_test/venv/test2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../python_test/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../python_test/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -340,7 +339,7 @@
       <updated>1577029459042</updated>
       <workItem from="1577029462035" duration="763000" />
       <workItem from="1577597108971" duration="6329000" />
-      <workItem from="1577687737147" duration="2580000" />
+      <workItem from="1577687737147" duration="2978000" />
     </task>
     <task id="LOCAL-00001" summary="add first commit by wall">
       <created>1577687985319</created>
@@ -374,11 +373,10 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9672000" />
+    <option name="totallyTimeSpent" value="10070000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="11" y="21" width="1346" height="698" extended-state="0" />
-    <editor active="true" />
     <layout>
       <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25738725" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
